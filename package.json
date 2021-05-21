@@ -1,0 +1,22 @@
+{
+  "name": "financial-server",
+  "version": "1.0.0",
+  "description": "Backend part for personal financial management application thesis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rostikmakhanko/financial-server.git"
+  },
+  "keywords": [
+    "finance"
+  ],
+  "author": "Rostyslav Makhanko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rostikmakhanko/financial-server/issues"
+  },
+  "homepage": "https://github.com/rostikmakhanko/financial-server#readme"
+}
